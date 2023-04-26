@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Miami landing page.
+
+Miami best real estate
+
+Focused only on new buildings and high-level doskanalno know this area better than other specialists. Working directly with developers - so have more useful information about the profitable deals.
+
+Technologies:
+  - HTML
+  - CSS
+  - SASS
+  - BEM
+
+  [DEMO LINK](https://partnersinbahamas.github.io/miami-landing/)
